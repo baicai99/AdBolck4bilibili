@@ -1,0 +1,14 @@
+bilibili.com##.adblock-tips
+willyoupressthebutton.com##iframe[src="https://static.btloader.com/safeFrame.html?upapi=true"]
+willyoupressthebutton.com###google_ads_iframe_\/71161633\,31515920\/WYPBTN_willyoupressthebuttn\/stats_mrec_1_0
+willyoupressthebutton.com##iframe[src="https://6c2d6f45bd1f6b1eacf083a512065403.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?upapi=true"]
+willyoupressthebutton.com##.publift-widget-22870850614
+willyoupressthebutton.com##.publift-widget-22870850614-container-background
+willyoupressthebutton.com##.publift-widget-22870850614-button
+willyoupressthebutton.com##span[style="display:block;background:rgba(255, 255, 255, 0.7);height:fit-content;width:fit-content;top:0;left:0;color:#444;font-size:10px;font-weight:bold;font-family:sans-serif;line-height:normal;text-decoration:none;margin:0px;padding:6px;border-radius:0 0 5px 0;"]
+t.bilibili.com##.download-entry.download-client-trigger
+search.bilibili.com##.download-entry.download-client-trigger
+bilibili.com##.download-entry.download-client-trigger
+bilibili.com##.right-entry__outside.right-entry--vip
+bilibili.com##.v-popover-wrap:has(a[href*="//game.bilibili.com/platform"])
+bilibili.com##.v-popover-wrap:has(a[href*="//show.bilibili.com/platform/home.html?msource=pc_web"])
